@@ -1,0 +1,1 @@
+Short written explanation (300–500 words) plus GitHub commit history screenshot(s) showing the revert.
